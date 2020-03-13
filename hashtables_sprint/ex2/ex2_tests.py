@@ -1,6 +1,6 @@
 import unittest
 
-from ex2 import Ticket, reconstruct_trip
+from hashtables_sprint.ex2.ex2_impl import *
 
 
 class TestEx2(unittest.TestCase):
