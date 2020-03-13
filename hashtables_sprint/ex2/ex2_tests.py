@@ -1,6 +1,6 @@
 import unittest
 
-from hashtables.ex2.ex2_impl import *
+from hashtables_sprint.ex2.ex2_impl import *
 
 
 class TestEx2(unittest.TestCase):

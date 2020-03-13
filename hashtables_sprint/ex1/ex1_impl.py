@@ -1,6 +1,6 @@
 #  Hint:  You may not need all of these.  Remove the unused functions.
 #  Hint:  You may not need all of these.  Remove the unused functions.
-from hashtables.ex1.hashtables_impl import *
+from hashtables_sprint.ex1.hashtables_impl import *
 
 
 def get_indices_of_item_weights(weights, length, limit):
