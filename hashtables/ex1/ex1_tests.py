@@ -1,6 +1,6 @@
 import unittest
 
-from ex1 import get_indices_of_item_weights
+from hashtables.ex1.ex1_impl import *
 
 
 class TestEx1(unittest.TestCase):
